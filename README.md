@@ -1,2 +1,1 @@
-# TrabalhoApiPokemon
-trabalho em Grupo
+# TrabalhoApi
